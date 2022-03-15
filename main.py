@@ -15,7 +15,7 @@ def main():
         from simple_example import main as main_simple_example
         main_simple_example()
     elif exemple == REAL_EXAMPLE:
-        from real_example import main as
+        from real_example import main as real_example_main
         pass
 
 
